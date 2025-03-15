@@ -4,21 +4,23 @@ Welcome to my GitHub profile! I'm an enthusiastic undergraduate student pursuing
 
 ## 🚀 What I'm Working On
 
-- **Data Science Projects:** From predictive modeling to data visualization, I'm currently working on various projects that leverage data to uncover insights.
-- **Machine Learning:** Building and deploying machine learning models to analyze and predict outcomes based on historical data.
-- **Continuous Learning:** Always on the lookout for new tools and technologies to expand my knowledge and skills.
+- **Data Science & Machine Learning Projects:** Exploring innovative ways to solve real-world problems using deep learning and predictive modeling.
+- **Community Detection & Graph Learning:** Implementing advanced algorithms to identify communities in social networks using deep learning techniques.
+- **Continuous Learning:** Keeping up with the latest advancements in AI, ML, and Big Data to enhance my skill set.
 
 ## 🌟 My Skills
 
-- **Programming Languages:** Python, Java
-- **Data Analysis:** Pandas, NumPy, Scikit-Learn
-- **Data Visualization:** Matplotlib, Seaborn
-- **Big Data Technologies:** Exploring tools like Spark and Hadoop
+- **Programming Languages:** Python, Java  
+- **Machine Learning & Deep Learning:** Scikit-Learn, TensorFlow, PyTorch  
+- **Graph Analytics:** NetworkX, Graph Neural Networks (GNNs), Meta-Learning  
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Big Data Technologies:** Exploring tools like Apache Spark and Hadoop  
 
 ## 📈 Notable Projects
 
-- **Crime Prediction Model:** Developed a model to predict crime hotspots using historical data.
-- **Sentiment Analysis Tool:** Analyzed sentiment in financial news and social media to provide actionable insights.
+- **Community Detection using Deep Learning:** Implemented a **meta-learning-based approach** to detect communities in social networks using **Graph Neural Networks (GNNs)** and **MAML** on the **Cora dataset**.  
+- **Crime Prediction Model:** Developed a **machine learning model** to predict crime hotspots using historical crime data, leveraging **Random Forest, XGBoost, and Neural Networks**.  
+- **Sentiment Analysis Tool:** Built an NLP-based model to analyze sentiment in **financial news**, providing insights for market predictions.  
 
 ## 📫 Let's Connect
 
